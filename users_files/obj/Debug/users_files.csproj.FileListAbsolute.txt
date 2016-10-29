@@ -1,0 +1,9 @@
+D:\Projects\users_files\users_files\bin\Debug\users_files.exe.config
+D:\Projects\users_files\users_files\bin\Debug\users_files.exe
+D:\Projects\users_files\users_files\bin\Debug\users_files.pdb
+D:\Projects\users_files\users_files\obj\Debug\users_files.csprojResolveAssemblyReference.cache
+D:\Projects\users_files\users_files\obj\Debug\users_files.Form1.resources
+D:\Projects\users_files\users_files\obj\Debug\users_files.Properties.Resources.resources
+D:\Projects\users_files\users_files\obj\Debug\users_files.csproj.GenerateResource.Cache
+D:\Projects\users_files\users_files\obj\Debug\users_files.exe
+D:\Projects\users_files\users_files\obj\Debug\users_files.pdb
